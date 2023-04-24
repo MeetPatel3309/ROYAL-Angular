@@ -1,0 +1,13 @@
+html input ---> read --> ts component  --> pass to service --> service api call ----> boot ---> process ---> response --> service --> return --> component -> 
+		resp , err -> reps msg -> err msg -> 
+
+
+1) singup api spring boot + hb 
+2) CustomResponse 
+
+
+3) html -> read -> component -> print 
+4) service create -> api call 
+5) component-> service function call -> 
+6) repsonse alert 
+ 

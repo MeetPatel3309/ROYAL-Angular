@@ -18,7 +18,10 @@ const routes: Routes = [
   component:ForgotPasswordComponent,
   path:"forgot-password"
 },
-{path:"",component:LoginComponent}
+{
+  path:"",
+  component:LoginComponent
+}
 
 ];
 
